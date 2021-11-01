@@ -11,7 +11,7 @@ pipeline {
 	}
 
 	stages {
-		stage("test: baseline (jdk9)") {
+		stage("test: baseline (jdk-9)") {
 			agent {
 				docker {
 					image 'adoptopenjdk/openjdk11:latest'
