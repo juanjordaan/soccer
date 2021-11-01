@@ -3,7 +3,7 @@
 ## Requirements
 =====
 Java 9
-Mavin
+Maven
 
 ## Testing :
 =====
@@ -27,4 +27,4 @@ from project root folder run : ```java -jar api/target/api-1.0-jar-with-dependen
 
 #### Notes
 =====
-Can also be imported into an IDE (Eclipse/Sts/IntelliJ) as a mavin Project.
+Can also be imported into an IDE (Eclipse/Sts/IntelliJ) as a maven Project.
